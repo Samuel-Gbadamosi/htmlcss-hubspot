@@ -289,13 +289,13 @@ margin-top: 20px;}
 
 
 .section-five{
-  height: 350px;
+  /* height: 350px; */
   width: 100%;
   background-color: #51B0B2;
 }
 
 .top-row{
-  height: 312px;
+  /* height: 312px; */
   padding: 80px;
   text-align: center;
   color: white;
@@ -314,14 +314,32 @@ margin-top: 20px;}
 }
 
 .section-six{
-  height: 400px;
+  height: 600px;
   width: 100%;
-  background-color: yellow;
+  text-align: center;
+  background-color: #51B0B2;
 }
 
+.row-table{
+  height: 197px;
+  width: 1005px;
+  text-align: center;
+  background-color:  white;
+
+}
 
 .box1{
-  height: 400px;
-  width: 100%;
-  background-color: grey;
-text-align: left;}
+  height: 195px;
+  width: 248px;
+  height: 195px;
+
+  padding: 30px 29px;
+  line-height: 2.1;
+  text-align: center;
+  margin-bottom: 3px;
+  color: white;
+  background-color:  #51B0B2;
+  display: inline-block;
+
+
+}
