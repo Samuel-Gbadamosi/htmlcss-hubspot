@@ -144,7 +144,7 @@ main ul  li {
 
 .jumbotron{
   height:600px;
-  background-image: url('/Users/mac/Desktop/Corso Boolean/exercise11/htmlcss-hubspot/immaggini copy/jumbotron.png');
+  background-image: url('../immagginicopy/jumbotron.png');
 position: relative;
 top:0%;
 
